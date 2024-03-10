@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm currently in the fourth semester of my Bachelor in Computer Science degree at the Federal Institute of Santa Catarina.
+- 👨‍🎓 I'm currently in the fifth semester of my Bachelor in Computer Science degree at the Federal Institute of Santa Catarina.
 
 - 🌱 Currently learning **Data Structures, Algorithms and JAVA.**
 
