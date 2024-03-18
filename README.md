@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I'm currently in the fifth semester of my Bachelor in Computer Science degree at the Federal Institute of Santa Catarina.
 
-- 🌱 Currently learning **Data Structures, Algorithms and JAVA.**
+- 🌱 Currently learning **WordPress, React, Javascript and JAVA.**
 
 - 📫 How to reach me **vitor.carlet@outlook.com**
 
