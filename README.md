@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vitor Carlet <p style="font-size:18px"> </p></h1>
-<h3 align="center">I'm passionate about Problem Solving, Back-End Web Development, 3D modeling and Game Development.</h3>
+<h3 align="center">I'm passionate about Problem Solving, Web Development, 3D Modeling and Game Development.</h3>
 
 
 ## 🙋‍♂️ About Me
