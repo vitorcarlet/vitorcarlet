@@ -1,14 +1,11 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vitor Carlet <p style="font-size:18px"> </p></h1>
-<h3 align="center">I'm passionate about Problem Solving, Web Development, 3D Modeling and Game Development.</h3>
-
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm currently in the sixth semester of my Bachelor in Computer Science degree at the Federal Institute of Santa Catarina.
+- 👨‍🎓 I'm currently in the seventh semester of my Bachelor in Computer Science degree at the Federal Institute of Santa Catarina.
 
-- 🌱 Currently learning **Laravel, React, NextJS, AWS, Javascript and PHP.**
+- 🌱 Currently learning **ReactNative **Laravel, **React, NextJS, **AWS, Javascript and PHP.**
 
 - 📫 How to reach me **vitor.carlet@outlook.com**
 
