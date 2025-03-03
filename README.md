@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I'm currently in the seventh semester of my Bachelor in Computer Science degree at the Federal Institute of Santa Catarina.
 
-- 🌱 Currently learning **ReactNative Laravel, React, NextJS, AWS, Javascript and PHP.**
+- 🌱 Currently learning **React Native, Laravel, React, NextJS, AWS, Javascript and PHP.**
 
 - 📫 How to reach me **vitor.carlet@outlook.com**
 
