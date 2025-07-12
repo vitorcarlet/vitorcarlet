@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm currently in the seventh semester of my Bachelor's degree in Computer Science at the Federal Institute of Santa Catarina.
+- 👨‍🎓 I'm currently in the eighth semester of my Bachelor's degree in Computer Science at the Federal Institute of Santa Catarina.
 
 - 🌱 Currently learning **React Native, Laravel, React, NextJS, AWS, Javascript and PHP.**
 
