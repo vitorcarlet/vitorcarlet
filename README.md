@@ -3,13 +3,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I'm currently in the eighth semester of my Bachelor's degree in Computer Science at the Federal Institute of Santa Catarina.
+- 👨‍🎓 B.S. in Computer Science @IFC.
 
 - 🌱 Currently learning **React Native, Laravel, React, NextJS, AWS, Javascript and PHP.**
 
 - 📫 How to reach me **vitor.carlet@outlook.com**
 
-- 😀 My Portfolio: https://vitorcarlet.github.io/portfolio-vitorcarlet/
 ## Connect with me:
 <p align="left">
 
