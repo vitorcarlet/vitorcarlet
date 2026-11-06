@@ -3,9 +3,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 B.S. in Computer Science @IFC.
+- 👨‍🎓 Bachelor’s degree in Computer Science from Catarinense Federal Institute.
 
-- 🌱 Currently learning **React Native, Laravel, React, NextJS, AWS, Javascript and PHP.**
+- 🌱 Currently learning **React Native, Laravel, React, NextJS, AWS, Cloudflare, Javascript and PHP.**
 
 - 📫 How to reach me **vitor.carlet@outlook.com**
 
